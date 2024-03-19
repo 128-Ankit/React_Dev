@@ -1,0 +1,17 @@
+.todo-items{
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    background: #2b0419da;
+    border: 2px dotted red;
+    margin: 1.3rem 13rem;
+    padding: 2rem;
+    width: 200px;
+    align-items: center;
+}
+
+.todo-items li {
+    justify-content: center;
+    list-style: number;
+}
